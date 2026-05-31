@@ -1,6 +1,7 @@
 <div align="center">
 
-# DevNexAI
+# DevNexAI.com
+![alt text](<Foto perfil.jpg>)
 
 **An agentic, multi-LLM coding assistant for your terminal and desktop.**
 *Un asistente de código agéntico y multi-LLM para tu terminal y escritorio.*
