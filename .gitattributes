@@ -1,0 +1,14 @@
+# Normaliza finales de línea automáticamente
+* text=auto eol=lf
+
+# Scripts de Windows mantienen CRLF
+*.bat       text eol=crlf
+*.cmd       text eol=crlf
+*.ps1       text eol=crlf
+*.iss       text eol=crlf
+
+# Binarios
+*.ico       binary
+*.png       binary
+*.jpg       binary
+*.exe       binary

@@ -1,0 +1,80 @@
+# ===== Python =====
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg
+*.egg-info/
+.eggs/
+develop-eggs/
+pip-wheel-metadata/
+share/python-wheels/
+MANIFEST
+
+# ===== Build / Distribución =====
+build/
+dist/
+sdist/
+wheels/
+*.spec
+*.manifest
+
+# ===== Entornos virtuales =====
+.venv/
+venv/
+env/
+ENV/
+.python-version
+
+# ===== Testing / Coverage =====
+.tox/
+.nox/
+.coverage
+.coverage.*
+htmlcov/
+.cache/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.hypothesis/
+coverage.xml
+*.cover
+
+# ===== Jupyter =====
+.ipynb_checkpoints/
+
+# ===== PyInstaller / Inno Setup =====
+Output/
+*.exe
+!devnexai.ico
+
+# ===== Config local con API keys (NUNCA subir) =====
+.devnexai/
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+*.p12
+*.pfx
+credentials*
+secrets*
+*.secret
+
+# ===== IDE / Editor =====
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.pydevproject
+
+# ===== Sistema =====
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ===== Logs =====
+*.log
+logs/
