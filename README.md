@@ -11,14 +11,13 @@
 
 </div>
 
-<!--
-  CAPTURA 1 - Reemplaza esta linea por tu imagen.
-  Sube tus capturas a una carpeta /docs del repo y enlazalas asi:
-  ![DevNexAI GUI](docs/screenshot-gui.png)
--->
-<div align="center">
-  <img src="docs/screenshot-gui.png" alt="DevNexAI desktop app" width="800"/>
-</div>
+![DevNexAI overview](./image.png)
+
+![DevNexAI screenshot 1](./image-1.png)
+![DevNexAI screenshot 2](./image-2.png)
+![DevNexAI screenshot 3](./image-3.png)
+![DevNexAI screenshot 4](./image-4.png)
+![DevNexAI screenshot 5](./image-5.png)
 
 ---
 
@@ -49,7 +48,7 @@ DevNexAI is a coding agent inspired by tools like Claude Code, with three things
 ### Installation
 
 ```bash
-git clone https://github.com/<your-username>/devnexai.git
+git https://github.com/Barto12/devnexai-coding-agent-.git
 cd devnexai
 pip install -e .
 ```
@@ -125,7 +124,7 @@ DevNexAI es un agente de codificacion inspirado en herramientas como Claude Code
 ### Instalacion
 
 ```bash
-git clone https://github.com/<tu-usuario>/devnexai.git
+git clone https://github.com/Barto12/devnexai-coding-agent-.git
 cd devnexai
 pip install -e .
 ```
